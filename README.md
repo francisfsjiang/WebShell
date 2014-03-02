@@ -1,6 +1,8 @@
-webshell
+WebShell
 ========
 
-webshell - a shell on web using websoket
+WebShell - a shell on web using websoket
+
+Based on tornado.WebSocketHandler
 
 created by neveralso and brotherroot
